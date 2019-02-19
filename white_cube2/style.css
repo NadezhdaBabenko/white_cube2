@@ -9,6 +9,9 @@
     align-items: center;
     animation: loadscreen 5s;
 } */
+body{
+    width: 100vw;
+}
 body, p{
     font-family: 'Roboto', sans-serif;
     overflow-x: hidden;
