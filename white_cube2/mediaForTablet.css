@@ -1,0 +1,143 @@
+@media screen and (min-width: 993px) and (max-width: 1024px) {
+    #block11Cost{
+        font-size: 32px;
+    }
+    #block11Total{
+        font-size: 23px;
+    }
+    .sizeText3{
+        font-size: 13px;
+        padding: 0px 12px;
+    }
+    .sizeText4, .sizeText2{
+        font-size: 23px;
+    }
+    .scroll{
+        width: 0px;
+    }
+    .slick-prev:hover:before, .slick-next:hover:before{
+        border: 0px solid #fcc283!important;
+    }
+    .slick-prev:before, .slick-next:before{
+        border: 0px solid #fcc283!important;
+    }
+    .inputs{
+        margin-right: 5px;
+    }
+    
+    
+}
+@media screen and (min-width: 767px) and (max-width: 992px) {
+    #block11Cost{
+        font-size: 32px;
+    }
+    #block11Total{
+        font-size: 23px;
+    }
+    .sizeText3{
+        font-size: 13px;
+        padding: 0px 12px;
+    }
+    .sizeText4, .sizeText2{
+        font-size: 23px;
+    }
+    #block13Btn1{
+        line-height: 15px;
+    }
+    .inputs{
+        padding: 0 25px;
+        margin: 3px;
+    }
+    #block14Btn{
+        height: 48px;
+    }
+    .item{
+        width: 115px;
+        height: 115px;
+    }
+    .info{
+        font-size: 12px;
+    }
+    .number{
+        font-size: 30px;
+    }
+    .block15Text{
+        font-size: 20px;
+        line-height: 40px;
+        width: auto;
+    }
+    .closeSliderAll{
+        right: -45px;
+    }
+    #block19Btn{
+        margin: 45px auto;
+    }
+    .questionTitle{
+        font-size: 14px;
+        padding-left: 16px;
+    }
+    .scroll{
+        width: 0px;
+    }
+    #block24{
+        height: auto;
+    }
+    .inputs2{
+        width: 35%;
+    }
+    #block24Btn{
+        font-size: 11px;
+    }
+    #headerTel1, #headerTel2{
+        font-size: 9px;
+    }
+    .padTop{
+        padding-left: 0px;
+    }
+    #footerBtn{
+        line-height: 20px;
+    }
+    .mainImgSlider{
+        height: auto;
+        width: 100%;
+    }
+    .carouselExamplesText{
+        width: 60%;
+    }
+    .block16Text{
+        padding-left: 0;
+    }
+    .textWhite, .textBlack{
+        line-height: 15px;
+        font-size: 12px;
+    }
+    .textWhiteBottom, .textBlackBottom{
+        line-height: 16px;
+        font-size: 13px;
+        padding-top: 15px;
+    }
+    .block13Title{
+        margin-bottom: 0;
+    }
+    .block13Services{
+        margin: 0 auto;
+        height: 521px;
+        width: 100%;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+    .nameWhite, .nameBlack{
+        padding-top: 140px;
+        padding-bottom: 0px;
+    }
+    .check{
+        font-size: 14px;
+        padding-right: 0px;
+    }
+    .box{
+        margin-top: 215px;
+    }
+    .block17TextEnd, .block17Text{
+        font-size: 11px;
+    }
+}
